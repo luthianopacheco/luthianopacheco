@@ -6,7 +6,7 @@ My passions are music and technology, and in my free time I like to play guitar,
 
 
 ## Contact me
-[![mail](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&color=black&logo=gmail)](mailto:luthianopacheco@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&color=black&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luthiano-pacheco)
+[![mail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:luthianopacheco@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luthiano-pacheco)
 
 
 
