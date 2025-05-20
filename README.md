@@ -26,7 +26,3 @@ I am proactive, with strong analytical skills and adaptability to new technologi
 - Analytical and problem-solving skills 
 - Teamwork and collaboration 
 - Determination to learn and improve
-
-
-
-![Luthiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthianopacheco&show_icons=true&theme=highcontrast)
