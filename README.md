@@ -1,9 +1,9 @@
 # Luthiano Pacheco
-Front-End Mobile Developer, from Porto Alegre/RS - Brazil.
-Since 2021 studying System Development and now I'm specializing in Flutter, a multi-platform framework. 
-Currently in career transition, I'm seeking my first job oportunity in technology area. 
-My passions are music and technology, and in my free time I like to play guitar, games and travel.
+Full-Stack Developer from Porto Alegre/RS, Brazil. Focused in Flutter/Dart (mobile and web frontend) with experience in Node.js and Firebase.
 
+As a Full-Stack Developer at Volters, I led the frontend development of a new Flutter platform from scratch, defining its architecture, state management, libs, etc, in addition to collaborating with the backend team. My background also includes contributing to new features on Android/iOS/Web applications at daGinga.
+
+I am proactive, with strong analytical skills and adaptability to new technologies, always seeking to contribute to team growth and deliver efficient, scalable solutions. 
 
 ## Contact me
 [![mail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:luthianopacheco@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luthiano-pacheco)
@@ -13,18 +13,19 @@ My passions are music and technology, and in my free time I like to play guitar,
 ## 🛠 Hard Skills
 - <img src="https://github.com/luthianopacheco/luthianopacheco/assets/131195495/da51b468-9c73-4c14-8363-dffcae6acdd2" height=20> Dart
 
-- <img src="https://github.com/luthianopacheco/luthianopacheco/assets/131195495/187de448-25ed-4328-a7d9-943d6af100df" height=20> Flutter
+- <img src="https://github.com/user-attachments/assets/9aac3ed6-3494-4ae7-90fe-2cda5c3c5ddf" height=20>  Flutter
 
-- <img src="https://github.com/luthianopacheco/luthianopacheco/assets/131195495/66822b2c-0212-4d22-aad0-1a48722c93c7" height=30> MySQL
+- <img src="https://github.com/user-attachments/assets/0793217f-7afa-466c-a15b-813a403f4faa" height=20>
 
-- <img src="https://github.com/luthianopacheco/luthianopacheco/assets/131195495/501ba1c5-c7ba-4708-a0d3-ff6a44c2bbe7" height=35> Java
+- <img src="https://github.com/user-attachments/assets/6246c682-74be-4d94-bfac-93d80c99d579" height = 20> Firebase
 
 
 ## 🤝 Soft Skills
-- Communicative
-- Organized
-- Responsability
-- Teamwork
+- Organization and responsibility 
+- Clear and objective communication 
+- Analytical and problem-solving skills 
+- Teamwork and collaboration 
+- Determination to learn and improve
 
 
 
